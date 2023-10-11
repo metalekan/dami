@@ -36,7 +36,7 @@ const mySkills = [
 ]
 const Skills = () => {
   return (
-    <section className='min-h-screen w-full flex flex-col justify-around md:gap-0 px-2 md:px-20 bg-black pb-20 md:pb-0 text-dimWhite'>
+    <section className='min-h-screen w-full flex flex-col justify-around md:gap-0 px-2 md:px-20 bg-black pb-20 md:pb-0 text-dimWhite z-10'>
       <h1 className='text-center text-xl font-extrabold text_gradient'>Skills</h1>
       <div className="w-full grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-16">
         {

@@ -86,7 +86,6 @@ const Resume = () => {
       <div className="">
       <h1 className='text-lg font-extrabold text_gradient'>Qualification</h1>
       <p className=''>2019 Bachelor of Science in Water Resources Management and Agro-Meteorology (Hydrology). FUNAAB</p>
-
       </div>
     </section>
   )

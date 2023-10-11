@@ -19,41 +19,41 @@ const Tabs = () => {
         <div className="min-h-screen flex flex-col items-center pb-20">
             <div className='w-full mb-8 flex items-center justify-between gap-4 overflow-auto'>
                 <button
-                    className={`text-sm p-1 md:p-2 text-center md:min-w-[190px] min-w-[100px] ${activeTab === 1 ? 'bg-cyan text-white' : 'bg-white text-cyan' }  border-0 cursor-pointer rounded capitalize font-semibold duration-300`}
+                    className={`text-sm p-1 md:p-2 text-center md:min-w-[190px] min-w-[100px] ${activeTab === 1 ? 'bg-[#2cca91] text-white' : 'bg-white text-black' }  border-0 cursor-pointer rounded capitalize font-semibold duration-300`}
                     onClick={() => handleTabClick(1)}
                 >
                     Fliers
                 </button>
                 <button
-                    className={`text-sm p-1 md:p-2 text-center md:min-w-[190px] min-w-[100px] ${activeTab === 2 ? 'bg-cyan text-white' : 'bg-white text-cyan' }  border-0 cursor-pointer rounded capitalize font-semibold duration-300`}
+                    className={`text-sm p-1 md:p-2 text-center md:min-w-[190px] min-w-[100px] ${activeTab === 2 ? 'bg-[#2cca91] text-white' : 'bg-white text-black' }  border-0 cursor-pointer rounded capitalize font-semibold duration-300`}
                     onClick={() => handleTabClick(2)}
                 >
                     Logo
                 </button>
                 <button
-                    className={`text-sm p-1 md:p-2 text-center md:min-w-[190px] min-w-[100px] ${activeTab === 3 ? 'bg-cyan text-white' : 'bg-white text-cyan' }  border-0 cursor-pointer rounded capitalize font-semibold duration-300`}
+                    className={`text-sm p-1 md:p-2 text-center md:min-w-[190px] min-w-[100px] ${activeTab === 3 ? 'bg-[#2cca91] text-white' : 'bg-white text-black' }  border-0 cursor-pointer rounded capitalize font-semibold duration-300`}
                     onClick={() => handleTabClick(3)}
                 >
                     Book Covers
                 </button>
                 <button
-                    className={`text-sm p-1 md:p-2 text-center md:min-w-[190px] min-w-[100px] ${activeTab === 4 ? 'bg-cyan text-white' : 'bg-white text-cyan' }  border-0 cursor-pointer rounded capitalize font-semibold duration-300`}
+                    className={`text-sm p-1 md:p-2 text-center md:min-w-[190px] min-w-[100px] ${activeTab === 4 ? 'bg-[#2cca91] text-white' : 'bg-white text-black' }  border-0 cursor-pointer rounded capitalize font-semibold duration-300`}
                     onClick={() => handleTabClick(4)}
                 >
                     Products
                 </button>
                 <button
-                    className={`text-sm p-1 md:p-2 text-center md:min-w-[190px] min-w-[100px] ${activeTab === 5 ? 'bg-cyan text-white' : 'bg-white text-cyan' }  border-0 cursor-pointer rounded capitalize font-semibold duration-300`}
+                    className={`text-sm p-1 md:p-2 text-center md:min-w-[190px] min-w-[100px] ${activeTab === 5 ? 'bg-[#2cca91] text-white' : 'bg-white text-black' }  border-0 cursor-pointer rounded capitalize font-semibold duration-300`}
                     onClick={() => handleTabClick(5)}
                 >
                     Other Designs
                 </button><button
-                    className={`text-sm p-1 md:p-2 text-center md:min-w-[190px] min-w-[100px] ${activeTab === 6 ? 'bg-cyan text-white' : 'bg-white text-cyan' }  border-0 cursor-pointer rounded capitalize font-semibold duration-300`}
+                    className={`text-sm p-1 md:p-2 text-center md:min-w-[190px] min-w-[100px] ${activeTab === 6 ? 'bg-[#2cca91] text-white' : 'bg-white text-black' }  border-0 cursor-pointer rounded capitalize font-semibold duration-300`}
                     onClick={() => handleTabClick(6)}
                 >
                     Field Work
                 </button><button
-                    className={`text-sm p-1 md:p-2 text-center md:min-w-[190px] min-w-[100px] ${activeTab === 7 ? 'bg-cyan text-white' : 'bg-white text-cyan' }  border-0 cursor-pointer rounded capitalize font-semibold duration-300`}
+                    className={`text-sm p-1 md:p-2 text-center md:min-w-[190px] min-w-[100px] ${activeTab === 7 ? 'bg-[#2cca91] text-white' : 'bg-white text-black' }  border-0 cursor-pointer rounded capitalize font-semibold duration-300`}
                     onClick={() => handleTabClick(7)}
                 >
                     Awards

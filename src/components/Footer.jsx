@@ -11,17 +11,17 @@ import { BiLogoInstagramAlt, BiLogoFacebookCircle } from "react-icons/bi";
 
 const Footer = () => {
   return (
-    <footer className="w-full bg-cyan min-h-[50vh] flex flex-col justify-around text-white px-2 md:px-10">
-      <div className="flex items-center justify-between border-b py-3">
+    <footer className="w-full bg-[#2cca91] min-h-[50vh] flex flex-col justify-around px-2 md:px-10">
+      <div className="flex items-center justify-between border-b border-black py-3">
         <h1 className="font-bold text-lg">Lets Connect Here</h1>
-        <button className="button_neg p-1 md:p-2">
+        <button className="button_neg text-white p-1 md:p-2">
           <a href="/">Hire Me</a>
         </button>
       </div>
 
       <div className="flex flex-wrap gap-8 md:justify-between py-4 font-light">
         <div className="flex flex-col gap-2">
-          <span className="font-semibold">Olatinwa J</span>
+          <span className="font-semibold">Olatinwa Jacobs</span>
           <p className="font-light">
             Let's Collaborate and Design something amazing.
           </p>
@@ -90,7 +90,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="flex justify-between font-light border-t border-white py-2">
+      <div className="flex justify-between font-light border-t border-black py-2">
         <div className="flex items-center flex-wrap">
           <span className="pe-2">User Terms & Condition</span>
           <span className="border-s ps-2">Privacy Policy</span>
