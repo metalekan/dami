@@ -93,7 +93,7 @@ const Footer = () => {
       <div className="flex justify-between font-light border-t border-black py-2">
         <div className="flex items-center flex-wrap">
           <span className="pe-2">User Terms & Condition</span>
-          <span className="border-s ps-2">Privacy Policy</span>
+          <span>Privacy Policy</span>
         </div>
         <span>Copyright © Damilare</span>
       </div>

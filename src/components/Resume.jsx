@@ -3,7 +3,7 @@ import React from 'react'
 const Resume = () => {
   return (
     <section className='min-h-screen w-full flex flex-col gap-8 md:gap-0 px-2 md:px-20 bg-black pb-20 md:pb-0 text-dimWhite my-[6rem] relative'>
-      <div className="absolute z-[0] translate-x-[-50%] translate-y-[-50%] top-0 left-[50%] w-[50%] h-[100%] rounded-full new__gradient" />
+      <div className="absolute z-[0] translate-x-[-50%] translate-y-[-50%] top-0 left-[50%] w-[50%] h-[50%] rounded-full new__gradient" />
       <h1 className='text-center text-xl font-extrabold text_gradient'>Resume</h1>
       <p className='text-center'>More than 3 years as a Graphics designer and Brand Manager</p>
       <div className="mt-8">

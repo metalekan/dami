@@ -55,7 +55,7 @@ const Testimonial = () => {
         <h1 className='text-center text-xl font-extrabold text_gradient'>Testimonials</h1>
         <h2 className='text-center md:text-lg'>Few of my clients has one or two to say about me</h2>
       </div>
-      <div className="absolute z-[0] translate-x-[-50%] translate-y-[-50%] top-0 left-[50%] w-[50%] h-[100%] rounded-xl new__gradient" />
+      <div className="absolute z-[0] translate-x-[-50%] translate-y-[-50%] top-0 left-[50%] w-[50%] h-[40%] rounded-xl new__gradient" />
       <div className="grid md:grid-cols-3 gap-5 mt-[2rem]">
         {
           myTestimonials.map((review, index) => (

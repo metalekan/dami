@@ -31,7 +31,7 @@ const Contact = () => {
           <textarea className='input' cols="50" rows="10"></textarea>
         </div>
 
-        <button className='rounded btn_three bg-[#2cca91] hover:bg-white hover:text-black w-fit self-center px-6 py-2 font-bold md:text-sm'>Send Message</button>
+        <button className='rounded btn_three bg-[#2cca91] text-black hover:bg-white hover:text-black w-fit self-center px-6 py-2 font-bold md:text-sm'>Send Message</button>
       </form>
     </section>
   )
