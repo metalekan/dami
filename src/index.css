@@ -217,7 +217,7 @@ img {
   display: flex;
   overflow-x: scroll;
   padding: 24px;
-  background-color: #001524;
+  background-color: #02010a;
   height: 50vh;
   scroll-snap-type: x mandatory;
   scroll-padding-top: 24px;

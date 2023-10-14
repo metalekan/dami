@@ -4,10 +4,10 @@ export default {
   theme: {
     extend: {},
     colors: {
-      gray: "#ff7d00",
+      gray: "#fb8b24",
       white: "#f1faee",
-      cyan: "#15616d",
-      black: "#001524",
+      cyan: "#121113",
+      black: "#02010a",
       dimWhite: "#ffecd1",
     },
     fontFamily: {
