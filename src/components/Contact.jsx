@@ -7,7 +7,7 @@ const Contact = () => {
         <h1 className='text-center text-xl font-extrabold text_gradient'>Contact Me</h1>
         <h2 className='text-center md:text-lg'>Have a project idea? Feel free to send me a message.</h2>
      </div>
-      <form className='flex flex-col gap-4 mt-6 px-1 md:px-20' action="">
+      <form className='flex flex-col gap-4 mt-6 px-1' action="">
         <div className="w-full flex justify-between">
           <div className="flex flex-col gap-2 w-[45%]">
             <label className='font-bold' htmlFor="">Name</label>

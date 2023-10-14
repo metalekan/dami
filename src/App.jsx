@@ -16,8 +16,8 @@ import Footer from './components/Footer'
 const App = () => {
   return (
     <div className='bg-black'>
-      <Hero />
       <div className='xl:max-w-[1280px] mx-auto'>
+      <Hero />
         <ProductsCard />
         <About />
         <Resume/>
@@ -26,8 +26,8 @@ const App = () => {
         <Strength/>
         <Testimonial />
         <Contact />
-      </div>
       <Footer />
+      </div>
     </div>
   )
 }
