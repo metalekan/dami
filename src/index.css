@@ -147,17 +147,17 @@ img {
 }
 
 .new__gradient {
-  background: #fff;
+  background: #457b9d;
   filter: blur(750px);
 }
 
 .new2__gradient {
-  background: #f1f1f1;
+  background: #ffd6ff;
   filter: blur(750px);
 }
 
 .new3__gradient {
-  background: #866ee7;
+  background: #f1faee;
   filter: blur(750px);
 }
 
@@ -206,10 +206,6 @@ img {
   height: 8px;
 }
 
-.scroll-1::-webkit-scrollbar-thumb {
-  border-radius: 20px;
-  background: #e81cff;
-}
 
 .container * {
   padding: 0;
@@ -221,7 +217,7 @@ img {
   display: flex;
   overflow-x: scroll;
   padding: 24px;
-  background-color: #212121;
+  background-color: #001524;
   height: 50vh;
   scroll-snap-type: x mandatory;
   scroll-padding-top: 24px;
@@ -247,14 +243,6 @@ img {
   font-size: 16px;
 }
 
-.input:focus {
-  color: rgb(0, 255, 255);
-  background-color: #212121;
-  outline-color: rgb(0, 255, 255);
-  box-shadow: -3px -3px 15px rgb(0, 255, 255);
-  transition: .1s;
-  transition-property: box-shadow;
-}
 
 /* Card Admin */
 .card_admin {

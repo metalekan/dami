@@ -4,11 +4,11 @@ export default {
   theme: {
     extend: {},
     colors: {
-      gray: { 100: "#D9D9D9", 200: "#A9A9A9", 300: "#B1B1B1" },
-      white: "#FFFFFF",
-      cyan: "#016364",
-      black: "#212121",
-      dimWhite: "rgba(255, 255, 255, 0.7)",
+      gray: "#ff7d00",
+      white: "#f1faee",
+      cyan: "#15616d",
+      black: "#001524",
+      dimWhite: "#ffecd1",
     },
     fontFamily: {
       'nunito': ['Nunito Sans', 'sans-serif']

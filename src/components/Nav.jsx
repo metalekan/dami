@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom'
 
 const Nav = () => {
   return (
-    <header className='w-full hidden items-center justify-between text-white py-3 md:py-5 px-2 md:px-10 bg-black z-10'>
+    <header className='w-full hidden items-center justify-between text-[#f1faee] py-3 md:py-5 px-2 md:px-10 z-10'>
       <div className="logo font-extrabold text-lg">
         <span className='text_gradient2 font-extrabold'>DAMILARE</span>
       </div>

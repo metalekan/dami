@@ -8,7 +8,7 @@ const Hero = () => {
             <div className="glass h-[100%]">
                 <header className='w-full flex items-center justify-between text-white py-3 md:py-5 px-2 md:px-10 z-10'>
                     <div className="logo font-extrabold text-lg">
-                        <span className='text-dimWhite font-extrabold md:text-xl'>DAMILARE</span>
+                        <span className='text-white font-extrabold md:text-xl '>DAMILARE</span>
                     </div>
                     <nav className="hidden md:block">
                         <ul className='flex gap-8'>
