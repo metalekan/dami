@@ -11,7 +11,7 @@ const Testimonial = () => {
         <h2 className='text-center md:text-lg text-dimWhite'>Few of my clients has one or two to say about me</h2>
       </div>
       <div className="absolute z-[0] translate-x-[-50%] translate-y-[-50%] top-0 left-[50%] w-[50%] h-[40%] rounded-xl new__gradient" />
-      <div className="grid md:grid-cols-3 gap-5 mx-3 md:mx-0 mt-[2rem]">
+      <div className="grid lg:grid-cols-3 gap-5 mx-3 md:mx-0 mt-[2rem]">
         {
           testimony.map((review, index) => (
             <div key={index} className="flex flex-col gap-7 justify-between px-3 py-4 rounded-lg glass_testimony">
