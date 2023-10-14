@@ -10,7 +10,7 @@ const About = () => {
       <div className="flex flex-col justify-around lg:h-[80vh]">
         <div className="flex flex-col gap-10 lg:gap-0 lg:flex-row justify-between z-10">
           <div className="card_admin w-[80%] self-center lg:w-[30%] md:h-full">
-            <img className="rounded-xl h-full object-cover" src={"https://res.cloudinary.com/djljkfhjx/image/upload/v1697283821/Kalifa_verqv1.jpg"} alt="dami" />
+            <img className="rounded-xl object-cover" src={"https://res.cloudinary.com/djljkfhjx/image/upload/v1697283821/Kalifa_verqv1.jpg"} alt="dami" />
           </div>
           <div className="flex flex-col justify-between lg:w-[40%] text-dimWhite]">
             <p className='font-light text-center md:text-start leading-6'><span className='text-gray font-bold text-md'> Damilare Olatinwa .J is a skilled Graphic Designer and adept Brand Manager, merging creativity with strategic expertise.</span> <br /> <br /> With a solid foundation in design principles and a flair for capturing brand essence, Olatinwa excels in delivering cohesive brand experience. From logos, fliers, to branding colateral. Damilare Olatinwa ensures brands consistency and innovative solutions, keeping an eye on industry trends to provide cutting-edge design. <br /> Collaborate with Damilare Olatinwa elevate your brand to new heights.</p>
