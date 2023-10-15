@@ -183,6 +183,13 @@ img {
   -webkit-backdrop-filter: blur(9.4px);
 }
 
+.glasss {
+  background: rgba(19, 14, 37, 0.33);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(19.4px);
+  -webkit-backdrop-filter: blur(19.4px);
+}
+
 .glass_testimony {
   background: rgba(134, 110, 231, 0.01);
   border-radius: 16px;

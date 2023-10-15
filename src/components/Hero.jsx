@@ -7,7 +7,7 @@ const Hero = () => {
     return (
         <main className='min-h-screen w-full bg-black hero_section animate__animated animate__fadeIn text-dimWhite'>
             <div className="glass">
-                <header className='w-full flex items-center justify-between text-white py-3 md:py-5 px-2 md:px-10 z-10 sticky top-0 glass'>
+                {/* <header className='w-full flex items-center justify-between text-white py-3 md:py-5 px-2 md:px-10 z-10 sticky top-0 glass'>
                     <div className="logo font-extrabold text-lg">
                         <span className='text-white font-extrabold md:text-xl '>DAMILARE</span>
                     </div>
@@ -43,7 +43,7 @@ const Hero = () => {
                     <button className="button_neg">
                         <span className="text-[12px] p-2 md:text-sm font-semibold">Download CV</span>
                     </button>
-                </header>
+                </header> */}
 
                 <div className='grid grid-cols-1 md:grid-cols-2 items-center'>
                     <div className="flex flex-col justify-center md:w-full md:px-10 px-2 h-screen ">
