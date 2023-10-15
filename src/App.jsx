@@ -12,7 +12,6 @@ import Contact from './components/Contact'
 import Footer from './components/Footer'
 
 
-
 const App = () => {
   return (
     <div className='bg-black'>
@@ -20,10 +19,10 @@ const App = () => {
       <div className='xl:max-w-[1280px] mx-auto'>
         <ProductsCard />
         <About />
-        <Resume/>
+        <Resume />
         <Portfolio />
-        <Skills/>
-        <Strength/>
+        <Skills />
+        <Strength />
         <Testimonial />
         <Contact />
       </div>
