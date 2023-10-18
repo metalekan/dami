@@ -46,11 +46,15 @@ const Footer = () => {
             <div className="flex flex-col">
               <div className="flex items-center">
                 <HiOutlineMail />
+                <a href="mailto:daredharmie@gmail.com">
                 <span>daredharmie@gmail.com</span>
+                </a>
               </div>
               <div className="flex items-center">
                 <HiOutlinePhone />
+                <a href="tel:+2349044578647">
                 <span>+234 9044578647</span>
+                </a>
               </div>
               <div className="flex items-center">
                 <HiOutlineLocationMarker />
