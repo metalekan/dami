@@ -65,7 +65,7 @@ export const testimony = [
 export const fliers = [
   {
     id: 1,
-    src: "https://res.cloudinary.com/djljkfhjx/image/upload/v1697209193/FLIERS/Christmas-1_hkfq28.jpg",
+    src: "https://res.cloudinary.com/djljkfhjx/image/upload/v1697209531/FLIERS/Menu_ikkmag.jpg",
   },
   {
     id: 2,
@@ -73,7 +73,7 @@ export const fliers = [
   },
   {
     id: 3,
-    src: "https://res.cloudinary.com/djljkfhjx/image/upload/v1697209428/FLIERS/DYK_cjkrtx.jpg",
+    src: "https://res.cloudinary.com/djljkfhjx/image/upload/v1697208290/FLIERS/Easter-Faith-Conference_rs3bf3.jpg",
   },
   {
     id: 4,
